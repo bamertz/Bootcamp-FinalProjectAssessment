@@ -18,3 +18,4 @@ I held a project manager-type role within our group. I created all of our group 
 
 ## Team-Assessment
 
+Our team was great! We made a choice at the very beginning to keep it simple and make sure it works. We didn't want to use and databases, machine learning models, and visualization tools that we weren't comfortable with. I think everyone in the group really played to their strenths. We coummunicated really well and made sure we were done with our Rubric segments ahead of schedule. On a specific note about communication, we had a team member who was comfortable with presenting the dashboard and communicated it, so we made an adjustment in the final presentation and it worked out really well. Overall, thouroughly enjoyed working with everyone in this group. Everyone did their part, and I think it showed.
